@@ -1,10 +1,16 @@
 # Traffic Signal Optimization via Simplex Method (MTH382 Project)
 
-<p align="center">
-<img src="Diagram.png" alt="Visualization of traffic stop we wish to optimize" width="85%"></img>
+<div align="center">
+<img src="Diagram.png" alt="Visualization of traffic stop we wish to optimize" width="75%"></img>
 <br>
-<a align="center" href="MTH382_Project.pdf" style=font-size=medium;">Link to Paper</a>
-</p>
+<br>
+    
+[![Paper](https://img.shields.io/badge/📄_Read_Paper-red?style=for-the-badge)](https://haziqmk.me/files/MTH382_Project.pdf)
+![MATLAB](https://img.shields.io/badge/MATLAB-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+
+</div>
+
+<!-- <a align="center" href="MTH382_Project.pdf" style=font-size=medium;">Link to Paper</a> -->
 
 
 This repository contains the project report and MATLAB implementation for optimizing traffic signal timing at a two-phase intersection using **Linear Programming (LP)**. The core challenge involved linearizing the convex, non-linear Webster's Delay Formula using the Simplex method to find the optimal Green Time split and Cycle Length.
