@@ -1,12 +1,13 @@
-# Traffic Signal Optimization via Simplex Method (MTH382 Project)
+# Traffic Signal Optimization via Simplex Method
 
 <div align="center">
 <img src="Diagram.png" alt="Visualization of traffic stop we wish to optimize" width="75%"></img>
 <br>
 <br>
-    
-[![Paper](https://img.shields.io/badge/📄_Read_Paper-red?style=for-the-badge)](https://haziqmk.me/files/MTH382_Project.pdf)
-![MATLAB](https://img.shields.io/badge/MATLAB-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+
+[![Paper](https://img.shields.io/badge/Read_Paper-black?style=for-the-badge&logo=wordpress)](https://haziqmk.me/files/MTH382_Project.pdf)
+![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=octave&logoColor=white)
+![MTH382](https://img.shields.io/badge/∑_MTH382_Project-black?style=for-the-badge)
 
 </div>
 
